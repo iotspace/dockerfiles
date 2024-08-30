@@ -22,7 +22,7 @@ Collection of lightweight and ready-to-use docker images
 * **[swagger-ui](./swagger-ui)** - Swagger UI 2.1.2 with API_URL and API_KEY injection (45 MB)
 * **[s3cmd](./s3cmd)** - Lightweight wrapper around s3cmd
 * **[thumbor-nginx-cors](./thumbor-nginx-cors)** - Nginx image for thumbor with CORS support
-
+* **[go-alpine](./go-alpine/)** - Go Alpine image
 ## FAQ
 
 ##### Why do you use `install.sh` scripts instead of putting the commands in the `Dockerfile`?
